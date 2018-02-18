@@ -1,0 +1,19 @@
+{
+  "customerId" : 1,
+  "name" : "justin",
+  "dataOfBirth" : 1483250400000,
+  "anualSalary" : 1200000.0,
+  "address" : {
+    "street" : "west street",
+    "city" : "irving",
+    "state" : "TX",
+    "zipCode" : 75039
+  },
+  "paymentMethod" : [ {
+    "cardNumber" : 12345678,
+    "cardName" : "AMEX",
+    "dateFrom" : 1483250400000,
+    "expDate" : 1483250400000,
+    "cardType" : null
+  } ]
+}

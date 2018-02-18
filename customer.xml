@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer xmlns="http://XML/customer">
+    <customerId>1</customerId>
+    <name>justin</name>
+    <dataOfBirth>2017-01-01-06:00</dataOfBirth>
+    <anualSalary>1200000.0</anualSalary>
+    <address>
+        <street>west street</street>
+        <city>irving</city>
+        <state>TX</state>
+        <zipCode>75039</zipCode>
+    </address>
+    <paymentMethod>
+        <cardNumber>12345678</cardNumber>
+        <cardName>AMEX</cardName>
+        <dateFrom>2017-01-01-06:00</dateFrom>
+        <ExpDate>2017-01-01-06:00</ExpDate>
+    </paymentMethod>
+</customer>
